@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/thabet/WorkspaceIntellij/Demo-Structure">
+        <classes>
+            <class name="agenda.AgendaTests">
+                <methods>
+                    <include name="TestActivite"/>
+                </methods>
+            </class>
+            <class name="dossier.CreateLeadTests">
+                <methods>
+                    <include name="TestCreationLead"/>
+                </methods>
+            </class>
+            <class name="listeDossiers.ListeDossiersTests">
+                <methods>
+                    <include name="TestListeDossiers"/>
+                </methods>
+            </class>
+            <class name="login.LoginTests">
+                <methods>
+                    <include name="testSuccesLogin"/>
+                    <include name="testFailLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

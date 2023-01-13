@@ -1,0 +1,1 @@
+{"uuid":"05a71279-bbdc-42f1-bb44-a2d00bab753b","name":"Demo-Structure","children":["ae9b77f9-66bf-4c34-ac0e-61594d1e335f"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673359374703,"stop":1673359376594}],"afters":[],"start":1673359374701,"stop":1673359376760}
