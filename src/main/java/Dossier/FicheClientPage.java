@@ -23,6 +23,7 @@ private  WebDriver driver;
 
         Assert.assertEquals(driver.getCurrentUrl(), "https://re.ixia-test.fr/main/produits/dossier/0/contacts");
         System.out.println("Vous etes sur la fiche client");
+        System.out.println("Vous etes sur la fiche client");
         driver.findElement(By.id("nomEmp")).sendKeys("thabet");
         driver.findElement(By.id("prenomEmp")).sendKeys("thabet");
         driver.findElement(By.id("nomJeuneFilleEmp")).sendKeys("thabet");
