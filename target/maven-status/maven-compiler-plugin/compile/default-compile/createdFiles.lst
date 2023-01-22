@@ -1,0 +1,9 @@
+Authentification\HomePage.class
+pages\TableauDeBord\DashboardPage.class
+Locators\LoginElements.class
+pages\agendaPages\TachePage.class
+Authentification\LogOutPage.class
+pages\ListeDossiers\ListeDossiersPage.class
+Dossier\FicheClientPage.class
+pages\agendaPages\AgendaPage.class
+Authentification\LoginPage.class

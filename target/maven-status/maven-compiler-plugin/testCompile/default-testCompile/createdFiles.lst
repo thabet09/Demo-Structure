@@ -1,0 +1,7 @@
+login\LoginTests.class
+agenda\AgendaTests.class
+NewLeadTest.class
+base\BaseTests.class
+dossier\CreateLeadTests.class
+listeDossiers\ListeDossiersTests.class
+TestDemo.class
