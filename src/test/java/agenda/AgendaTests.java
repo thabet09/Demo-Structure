@@ -11,7 +11,6 @@ public class AgendaTests extends BaseTests {
     public  void TestActivite () throws  Exception{
         DashboardPage dashboardPage = loginPage.clickLoginButton();
         AgendaPage agendaPage = dashboardPage.ClickAgenda();
-        Thread.sleep(5000);
 
     }
 
